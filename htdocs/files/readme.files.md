@@ -1,0 +1,1 @@
+La carpeta debe tener permisos 777
